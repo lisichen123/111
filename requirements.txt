@@ -1,5 +1,5 @@
 numpy
 cirq
 sympy
-tensorflow
-tensorflow-quantum
+tensorflow==2.5.0
+tensorflow-quantum==0.5.1
