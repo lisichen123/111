@@ -2,4 +2,4 @@ numpy
 cirq
 sympy
 tensorflow==2.5.0
-tensorflow-quantum==0.5.1
+tensorflow-quantum==0.7.2
