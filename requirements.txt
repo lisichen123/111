@@ -1,2 +1,5 @@
-numpy== 1.18.5
-pandas== 1.1.4
+numpy== 1.22.4
+cirq
+sympy
+tensorflow==2.7.0
+tensorflow_quantum==0.7.2
